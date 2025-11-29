@@ -5,6 +5,7 @@
 - **NIM:** [H1H024005]
 - **Shift Awal:** [C]
 - **Shift Akhir:** [D]
+
 Deskripsi Aplikasi
 PokéCare adalah sistem simulasi berbasis web untuk melatih dan mengembangkan Pokémon Victreebel. Aplikasi ini dikembangkan untuk memenuhi tugas Responsi Praktikum Pemrograman Berorientasi Objek (PBO) yang memungkinkan trainer untuk:
 - Melihat informasi dasar Pokémon Victreebel
